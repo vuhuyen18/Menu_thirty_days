@@ -1,0 +1,224 @@
+<resources>
+    <string name="app_name">Thirty_day</string>
+    <string name="menu_one">Thực đơn hàng ngày 1</string>
+    <string name="menu_two">Thực đơn hàng ngày 2</string>
+    <string name="menu_three">Thực đơn hàng ngày 3</string>
+    <string name="menu_four">Thực đơn hàng ngày 4</string>
+    <string name="menu_five">Thực đơn hàng ngày 5</string>
+    <string name="menu_six">Thực đơn hàng ngày 6</string>
+
+    <string name="menu_seven">Thực đơn hàng ngày 7</string>
+    <string name="menu_eight">Thực đơn hàng ngày 8</string>
+    <string name="menu_nine">Thực đơn hàng ngày 9</string>
+    <string name="menu_ten">Thực đơn hàng ngày 10</string>
+    <string name="menu_elven">Thực đơn hàng ngày 11</string>
+    <string name="menu_twelve">Thực đơn hàng ngày 12</string>
+
+    <string name="menu_thirteen">Thực đơn hàng ngày 13</string>
+    <string name="menu_fourteen">Thực đơn hàng ngày 14</string>
+    <string name="menu_fifteen">Thực đơn hàng ngày 15</string>
+    <string name="menu_sixteen">Thực đơn hàng ngày 16</string>
+    <string name="menu_seventeen">Thực đơn hàng ngày 17</string>
+    <string name="menu_eighteen">Thực đơn hàng ngày 18</string>
+
+
+    <string name="menu_nineteen">Thực đơn hàng ngày 19</string>
+    <string name="menu_twenty">Thực đơn hàng ngày 20</string>
+    <string name="menu_twenty_one">Thực đơn hàng ngày 21</string>
+    <string name="menu_twenty_two">Thực đơn hàng ngày 22</string>
+    <string name="menu_twenty_three">Thực đơn hàng ngày 23</string>
+    <string name="menu_twenty_four">Thực đơn hàng ngày 24</string>
+
+    <string name="menu_twenty_five">Thực đơn hàng ngày 25</string>
+    <string name="menu_twenty_six">Thực đơn hàng ngày 26</string>
+    <string name="menu_twenty_seven">Thực đơn hàng ngày 27</string>
+    <string name="menu_twenty_eight">Thực đơn hàng ngày 28</string>
+    <string name="menu_twenty_nine">Thực đơn hàng ngày 29</string>
+    <string name="menu_thirty">Thực đơn hàng ngày 30</string>
+
+    <string name="menu1">
+        Đậu kho thịt
+        Thịt bò xào rau muống
+        Cà pháo </string>
+
+    <string name="menu2">
+        Cá sốt
+        cánh gà chiên mắm
+        Trứng ốp
+        Rau muống luộc
+        Cà pháo
+        Tráng miệng: Ngô, dâu tây </string>
+
+    <string name="menu3">
+        Cá nục chiên mắm tỏi
+        Rau muống xào thịt bò
+        Cà pháo</string>
+
+    <string name="menu4">
+        Cá chiên
+        Thịt kho đậu
+        Cánh gà chiên mắm
+        Mướp xào giá đỗ
+        Rau muống luộc
+        Cà pháo</string>
+
+    <string name="menu5">
+        Tôm rim
+        Cá saba kho
+        Bắp cải xào trứng
+        Bắp cải luộc </string>
+
+    <string name="menu6">
+        Thịt luộc
+        Nem rán
+        Dạ dày xào dưa
+        Canh rau cải
+        Dưa leo dầm
+        Tráng miệng: Chuối, kiwi </string>
+
+    <string name="menu7">
+        Chả lá lốt
+        Măng hồi thịt
+        Riêu cua
+        Rau bí xào tỏi
+        Cà pháo
+        Tráng miệng: Nho, kiwi </string>
+
+    <string name="menu8">
+        Cá thu sốt cà chua
+        Tép rang
+        Canh cá nấu chua
+        Thịt bò cuấn măng tây
+        Đậu bắp luộc
+        Tráng miệng: Táo </string>
+
+    <string name="menu9">
+        Rau cải chíp luộc
+        Đậu bắp luộc
+        Kho quẹt
+
+Thịt bò nướng
+
+Cánh gà chiên nước mắm
+
+Canh rau muống
+
+ Cơm cháy
+
+Cà muối
+
+ Tráng miệng: Kiwi, nho, lê </string>
+    <string name="menu10">
+        Đậu nhồi thịt chiên
+        Thịt kho trứn
+        Cánh gà chiên nước mắm
+        Canh cá nấu chua
+        Hoa quả tráng miệng </string>
+
+    <string name="menu11">
+        Canh cá nấu chua
+        Cá kho
+        Thịt nướng
+        Tràng luộc
+        Rau sống </string>
+
+    <string name="menu12">
+        Rau càng cua xào thịt
+        Cá nục kho
+        Bắp cải luộc
+        Tôm chiên
+        Dưa leo, củ cải muối </string>
+
+    <string name="menu13">
+        Tôm rim
+        Thịt xào bí đỏ
+        Canh khoai</string>
+
+    <string name="menu14">
+        Đậu rồng chấm kho quẹt
+        Rau càng cua xào thịt
+        Canh cá nấu chua
+        Cá nục kho dứa </string>
+
+    <string name="menu15"> Bò sốt vang </string>
+
+    <string name="menu16">
+        Chả lụa kho nấm rơm
+        Mực xào dưa
+        Canh trứng cà chua đậu hũ
+        Tráng miệng: Cam </string>
+
+    <string name="menu17">
+        Cá diêu hồng nấu chua
+        Súp lơ xào mộc nhĩ
+        Đậu hũ chiên xối nước tương
+        Tráng miệng: Táo </string>
+
+    <string name="menu18">
+        Thịt băm sốt cà chua
+        Rau cần xào thịt bò
+        Canh su su hầm xương
+
+- Tráng miệng: Dưa hấu </string>
+
+    <string name="menu19">Hủ tiếu chay </string>
+    <string name="menu20">
+        Thịt xay hấp tôm, trứng, nấm hương
+        Cải bẹ xào rau củ
+        Canh mướp nấm kim châm, thịt xay
+
+- Tráng miệng: Táo</string>
+
+    <string name="menu21">
+        Ức gà xào chua ngọt
+        Cà tím xào tương
+        Canh cải thìa mực viên
+        Tráng miệng: Táo </string>
+
+    <string name="menu22">
+        Cá lóc phi lê kho thịt ba chỉ
+        Canh chua rau muống nấu tôm
+        Rau sống, củ quả
+        Bánh su kem </string>
+
+    <string name="menu23">
+        Heo quay khìa nước tương
+        Mướp xào
+        Canh khoai tây thịt viên </string>
+
+    <string name="menu24">
+        Các sặc bướm chiên giòn chấm mắm me
+        Đậu bắp xào tỏi
+        Canh mồng tơi
+        Tráng miệng: Cam </string>
+
+    <string name="menu25">Mỳ gà tiềm </string>
+
+    <string name="menu26">
+        Ba chỉ chiên nước mắm
+        Cải xào giá
+        Canh rau ngót thịt xay
+        Kim chi cải thảo
+        Tráng miệng: Quýt thái </string>
+
+    <string name="menu27">Cá cơm chiên giòn cuốn bánh tráng </string>
+    <string name="menu28">
+        Lạp xưởng
+        Bí bao tử xào
+        Canh rong biển đậu hũ
+        Trứng ngâm tương </string>
+
+    <string name="menu29">Nui xào trứng bò</string>
+    <string name="menu30">
+        Canh chua nghêu
+        Cá basa chiên sả ớt
+        Khổ qua xào thịt bò
+        Bạch tuộc hấp hành
+        Tráng miệng: Dưa hấu </string>
+
+
+
+
+
+
+</resources>
